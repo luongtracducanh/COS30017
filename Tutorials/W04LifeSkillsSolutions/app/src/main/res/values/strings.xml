@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W03-Calculations</string>
+    <string name="equals">equals</string>
+    <string name="plus">plus</string>
+    <string name="mult">mult</string>
+
+    <string name="number">number</string>
+</resources>

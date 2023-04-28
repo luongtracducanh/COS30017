@@ -1,0 +1,2 @@
+rootProject.name = "W04-CalLifeSkill-Solutions"
+include ':app'
