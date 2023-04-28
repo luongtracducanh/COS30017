@@ -1,2 +1,2 @@
 # COS30017
-Software Development for Mobile Devices
+Assignments and labs of COS30017 - Software Development for Mobile Devices (January 2023)
