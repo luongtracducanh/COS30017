@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">core1-103488117</string>
+    <string name="increase">SCORE</string>
+    <string name="decrease">STEAL</string>
+    <string name="reset">RESET</string>
+    <string name="default_score">0</string>
+</resources>

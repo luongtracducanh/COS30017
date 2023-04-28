@@ -1,0 +1,2 @@
+rootProject.name = "L09-NotQuiteBinaryFilesExt"
+include ':app'

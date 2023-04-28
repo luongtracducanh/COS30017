@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">core2-local</string>
+    <string name="university"></string>
+    <string name="station"></string>
+    <string name="hall"></string>
+    <string name="garden"></string>
+    <string name="university_rating"></string>
+    <string name="station_rating"></string>
+    <string name="hall_rating"></string>
+    <string name="garden_rating"></string>
+    <string name="detail_name"></string>
+    <string name="detail_location"></string>
+    <string name="detail_date"></string>
+</resources>

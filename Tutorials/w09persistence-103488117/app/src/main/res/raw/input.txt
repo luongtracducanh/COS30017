@@ -1,0 +1,4 @@
+xin,5
+chao,3
+moi,2
+nguoi,4

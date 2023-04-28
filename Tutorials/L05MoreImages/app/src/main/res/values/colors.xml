@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Custom colors: Material design-->
+    <!--Blueish-->
+<!--    <color name="primaryColor">#7e6cd3</color>
+    <color name="primaryLightColor">#b19aff</color>
+    <color name="primaryDarkColor">#4c41a1</color>
+    <color name="secondaryColor">#4a148c</color>
+    <color name="secondaryLightColor">#7c43bd</color>
+    <color name="secondaryDarkColor">#12005e</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>-->
+    <!--Green-->
+<!--    <color name="primaryColor">#1b7f1b</color>-->
+<!--    <color name="primaryLightColor">#54af4a</color>-->
+<!--    <color name="primaryDarkColor">#005100</color>-->
+<!--    <color name="secondaryColor">#ef9a9a</color>-->
+<!--    <color name="secondaryLightColor">#ffcccb</color>-->
+<!--    <color name="secondaryDarkColor">#ba6b6c</color>-->
+<!--    <color name="primaryTextColor">#ffffff</color>-->
+<!--    <color name="secondaryTextColor">#000000</color>-->
+
+    <!--Red scheme-->
+    <color name="primaryColor">#ba201d</color>
+    <color name="primaryLightColor">#f35846</color>
+    <color name="primaryDarkColor">#820000</color>
+    <color name="secondaryColor">#ef9a9a</color>
+    <color name="secondaryLightColor">#ffcccb</color>
+    <color name="secondaryDarkColor">#ba6b6c</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+</resources>

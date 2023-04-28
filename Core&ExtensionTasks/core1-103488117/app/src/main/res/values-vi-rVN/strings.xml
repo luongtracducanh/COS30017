@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">core1-103488117</string>
+    <string name="increase">GHI ĐIỂM</string>
+    <string name="decrease">CƯỚP</string>
+    <string name="reset">ĐẶT LẠI</string>
+    <string name="default_score">0</string>
+</resources>

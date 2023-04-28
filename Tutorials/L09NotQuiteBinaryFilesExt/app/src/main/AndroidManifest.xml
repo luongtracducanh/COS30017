@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="au.edu.swin.sdmd.l09_notquitebinaryfiles">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.L09NotQuiteBinaryFiles">
+        <activity
+            android:name=".ui.history.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.converter.ConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.process.ProcessActivity"
+            android:exported="false" />
+        <!-- Use this to have a more complex app with fragments and navigation menu -->
+<!--        <activity android:name=".MainActivity" />-->
+        <!-- Use these to have a basic app -->
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".MainActivityBasic"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

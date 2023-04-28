@@ -1,0 +1,2 @@
+rootProject.name = "L06-FragmentedImages"
+include ':app'

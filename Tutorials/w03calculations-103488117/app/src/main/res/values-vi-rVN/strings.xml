@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">W03-Calculations</string>
+    <string name="equals">bằng</string>
+    <string name="plus">cộng</string>
+    <string name="multiply">nhân</string>
+</resources>
